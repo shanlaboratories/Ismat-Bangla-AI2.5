@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Bangla AI",
+  "description": "A Bengali conversational AI app featuring real-time voice interaction using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
